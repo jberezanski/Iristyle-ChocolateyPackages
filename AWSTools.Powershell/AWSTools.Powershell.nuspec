@@ -7,7 +7,9 @@
     <authors>Amazon Web Services</authors>
     <owners>Ethan Brown</owners>
     <summary>The AWS Tools for Windows PowerShell lets developers and administrators manage their AWS services from the Windows PowerShell scripting environment. Now you can manage your AWS resources with the same Windows PowerShell tools you use to manage your Windows environment.</summary>
-    <description>The AWS Tools for Windows PowerShell lets developers and administrators manage their AWS services from the Windows PowerShell scripting environment. Now you can manage your AWS resources with the same Windows PowerShell tools you use to manage your Windows environment.</description>
+    <description>The AWS Tools for Windows PowerShell lets developers and administrators manage their AWS services from the Windows PowerShell scripting environment. Now you can manage your AWS resources with the same Windows PowerShell tools you use to manage your Windows environment.
+
+This package always installs the latest available version of AWS Tools for Windows PowerShell. The package metadata gets updated with each software release to enable upgrading existing installations using standard Chocolatey mechanisms.</description>
     <projectUrl>http://aws.amazon.com/powershell/</projectUrl>
     <tags>AWS Amazon cloud admin</tags>
     <licenseUrl>http://aws.amazon.com/apache2.0/</licenseUrl>
